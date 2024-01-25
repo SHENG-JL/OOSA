@@ -4,12 +4,12 @@ There is a separate directory for each week's work.
 
 ## Week 1
 
-Week 1 covers
-
 ## What's new in folder week1:
 Some new .py files ***tasks*** were created based on the course 
 Modified the python style of the new .py files
 Aseement new script and locate mininum number ***locatemin*** ***tasks***
+
+Week 1 covers
 
 ### x.txt
 Output from ***writeFile.py*** but it had been already modified
