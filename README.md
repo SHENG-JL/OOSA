@@ -10,7 +10,7 @@ The **foundations** folder contains some warm up exercises to transition on to t
 
 Week 1 covers
 
-What's new in folder week1:
+## What's new in folder week1:
 Some new .py files ***tasks*** were created based on the course 
 Modified the python style of the new .py files
 Aseement new script and locate mininum number ***locatemin*** ***tasks***
@@ -20,7 +20,6 @@ Output from ***writeFile.py*** but it had been already modified
 
 ### xycoords
 Output of the ****** from fileIO
-
 
 From the initial git files (some of them are modified a bit as to test different codes):
 ### data fileIO
