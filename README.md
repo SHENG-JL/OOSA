@@ -2,10 +2,6 @@
 
 There is a separate directory for each week's work. 
 
-## Foundations
-The **foundations** folder is from the public code folder mainly shows examples and some answers
-The **foundations** folder contains some warm up exercises to transition on to the course. There are two folders within:
-
 ## Week 1
 
 Week 1 covers
