@@ -33,10 +33,15 @@ Week 2 covers
 Has been changed a bit yet to achieve the function to read Wiggle1.txt, and the Wiggle1.txt has a copy in the some folder
 
 ### practical tasks
+###
 ***Autodeposit*** when call, Automatically deposite 1000pounds
+###
 ***pracevilbank*** new class, inheriting from your bank account class, only have a 50% chance of lying about the balance
+###
 ***prac*** adding a plot to visualize the data from random
+###
 ***practask3*** Binary
+###
 ***practask4*** Recursion
 
 
