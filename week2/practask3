@@ -10,6 +10,7 @@ from sys import exit
 import matplotlib.pyplot as plt
 
 
+#####################################
 
 class dataSorter(object):
   '''A class to hold data and provide examples of search algorithms'''

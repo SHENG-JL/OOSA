@@ -1,15 +1,5 @@
-
-
-#######################
-# Simple illustration #
-# of a command line   #
-# 2019 shancock       #
-#######################
-
-
 import argparse
 
-##################################
 # define a command line reader
 
 def getCmdArgs():
@@ -34,9 +24,6 @@ def getCmdArgs():
   # return that object from this function
   return cmdargs
 
-
-##########################################
-# main
 
 if __name__ == '__main__':
   # read the command line

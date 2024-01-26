@@ -1,13 +1,8 @@
-'''
-Program to illustrate the use of a command line parser
-'''
-
 # modules needed
 import numpy as np
 import argparse
 
 
-################################
 
 def readCommands():
   '''
@@ -33,16 +28,12 @@ def readCommands():
   return cmdargs
 
 
-################################
 
 def makeRand(n):
   '''Make an array of random numbers'''
   x=np.random.rand(n)
   return(x)
 
-
-################################
-# main
 
 if __name__=="__main__":
   args=readCommands()

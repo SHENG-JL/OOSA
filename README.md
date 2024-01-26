@@ -27,74 +27,16 @@ Contains an example solution for a simple sort algorithm. Note that there are mu
 ## Week 2
 
 Week 2 covers
-
-***Aspects***
-* Using the command line to make programmable programs
-* Objects and classes
-
-***Algorithm***
-* Binary search: Loop and recursion
-
-
-### main
-
-Contains an example of the main block in order to ease importing code in to other programs
-
-
+### initial data and examples from public shared git
 
 ### command\_line
+Has been changed a bit yet to achieve the function to read Wiggle1.txt, and the Wiggle1.txt has a copy in the some folder
 
-Contains two example python files, which can be used to alter the behaviour of a program at run time. This allows you to create a single python program and then reuse it with different input files, options etc.
+### practical tasks
+***Autodeposit*** when call, Automatically deposite 1000pounds
+***pracevilbank*** new class, inheriting from your bank account class, only have a 50% chance of lying about the balance
+***prac*** adding a plot to visualize the data from random
+***practask3*** Binary
+***practask4*** Recursion
 
-    commandExample.py: Minimum workable example of a command line
-    commandLineIllus.py: Illustrates the common command
-
-The options for commandLineIllus.py are:
-
-    -h, --help            show this help message and exit
-    --input INNAME        Input filename Default=test.txt
-    --lat LAT             Latitude in degrees Default = 5
-    --max_vcf MAXVCF      Maximum VCF value to use Default = 100
-    --useSnow             Use snow switch Default = False
-    -p [POW_BEAM_LIST ...], --power_beams [POW_BEAM_LIST ...] Track numbers of power beams Default = 5 and 6
-
-
-
-### objects
-
-Includes a script with a simple example of an object; a grouping of data and functions.
-
-
-### data
-
-Contains some text data files for use in this week's exercises.
-
-
-
-### docu\_strings
-
-Contains a piece of code demonstrating the suggested use of document string comments.
-
-
-### binary\_search
-
-Contains a suggested answer for week 2's algorithm. A suggested method using both looping and recursion is given.
-
-    binarySearches.py: contains suggested answers for binary search by loop and recursion
-    finishedQuartiles.py: uses the above to find quartiles in a sorted dataset
-    searchObject.py: begins an object for sorting data
-    makeData.py: makes data for testing algorithms
-    randomWages.py: generates random wage data for testing algorithms
-
-
-# Dependencies
-
-The code in these repositories make use of the following packages and is all in python3:
-
-    numpy
-    matplotlib.pylot
-    h5py
-    pyproj
-    gdal
-    rasterio
 
